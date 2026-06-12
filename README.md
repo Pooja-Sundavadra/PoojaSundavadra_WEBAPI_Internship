@@ -16,3 +16,5 @@ Practical List:
 5. QR Code Integration
 6. Google Captcha
 7. Excel Import Export
+8. RestAPI Integration
+9. Razorpay Pay Integration
