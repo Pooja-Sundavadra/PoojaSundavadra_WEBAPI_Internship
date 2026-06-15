@@ -18,3 +18,4 @@ Practical List:
 7. Excel Import Export
 8. RestAPI Integration
 9. Razorpay Pay Integration
+10. PHPMailer
